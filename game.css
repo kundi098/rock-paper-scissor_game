@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.background{
+    height: 100vh;
+    background-color: darkmagenta;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.game_section {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 110px;
+    padding-top: 64px;
+    font-family: 'Lemon', serif;
+    font-size: 30pt;
+}
+
+.first{
+    padding-right: 25%;
+}
+p{
+    left: 43px;
+    position: relative;
+    bottom: 30px;
+    font-size: xx-large;
+}
+button{
+    font-family: 'Lemon', serif;
+    background-color: darkmagenta ;
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: 30pt;
+    cursor: pointer;
+}
+    
